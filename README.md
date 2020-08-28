@@ -1,4 +1,4 @@
-<a href="https://www.jonathandempsey.dev/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jonathanedempsey/jonathanedempsey/raw/master/bio.gifjd-banner.gif" alt="Jonathan Dempsey, Web Developer" style="max-width: 100%;" /></a>
+<a href="https://www.jonathandempsey.dev/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jonathanedempsey/jonathanedempsey/raw/master/jd-banner.gif" alt="Jonathan Dempsey, Web Developer" style="max-width: 100%;" /></a>
 
 ### Hi there 👋
 
