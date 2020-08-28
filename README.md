@@ -1,3 +1,5 @@
+<img src="jd-banner.gif" alt="Jonathan Dempsey, Web Developer" style="max-width: 100%;" />
+
 ### Hi there 👋
 
 <!--
