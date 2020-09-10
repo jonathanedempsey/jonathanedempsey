@@ -1,8 +1,6 @@
-<a href="https://www.jonathandempsey.dev/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/jonathanedempsey/jonathanedempsey/raw/master/jd-banner.gif" alt="Jonathan Dempsey, Web Developer" style="max-width: 100%;" /></a>
-
 ### Hi there! 👋
 
-I’m Jonathan Dempsey, a Web Developer for the <a href="https://www.friday.ie/" target="_blank" rel="noopener noreferrer">Friday Agency</a>, a leading digital and UX agency in Dublin, Ireland.
+I’m Jonathan Dempsey, a Web Developer for the Friday Agency, a leading digital and UX agency in Dublin, Ireland.
 
 Since you're here, why not check out some <a href="https://www.jonathandempsey.dev/projects/" target="_blank" rel="noopener noreferrer">projects</a> I’ve worked on or have a read through some <a href="https://www.jonathandempsey.dev/journal/" target="_blank" rel="noopener noreferrer">articles</a> I’ve written.
 
