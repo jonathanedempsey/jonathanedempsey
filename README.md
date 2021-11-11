@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I’m Jonathan Dempsey, a Web Developer for the Friday Agency, a leading digital and UX agency in Dublin, Ireland.
+I’m Jonathan Dempsey, a Web Developer living in Dublin, Ireland.
 
 Since you're here, why not check out some <a href="https://www.jonathandempsey.dev/projects/" target="_blank" rel="noopener noreferrer">projects</a> I’ve worked on or have a read through some <a href="https://www.jonathandempsey.dev/journal/" target="_blank" rel="noopener noreferrer">articles</a> I’ve written.
 
